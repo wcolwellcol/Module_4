@@ -1,6 +1,6 @@
 # Module_4
 
-# Mod3Chall
+# Mod4Chall
 Repo for Week 4 Challenge of Fintech Course in which I conduct quantitative analysis on 4 different portfolios compared to the S&P 500. This is retroactive calculation and not actionable insight, but is still interesting to look at.
 
 ---
@@ -18,7 +18,7 @@ matplotlib-inline 0.1.6
 
 ---
 ## Installation
-The user should not have to install any packages, but if one somehow finds that they do I would recommend using` pip install`
+The user may not have to install any packages, but if one finds that they do I would recommend using` pip install`
 For example,
 `pip install <package name>`
 
